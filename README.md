@@ -42,16 +42,11 @@ Me enfoco en el desarrollo y mantenimiento de aplicaciones web, bases de datos y
 - Power BI
 - Arquitectura de software e inteligencia artificial
 
-## Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dev-JeffZambrano&show_icons=true&theme=github_dark&hide_border=true&locale=es)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-JeffZambrano&layout=compact&theme=github_dark&hide_border=true&locale=es)
-
 ## Contacto
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ing-jeff-zambrano.github.io/portafolio-jefferson/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Zambrano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-zambrano-10174a2bb/)
+<a href="https://ing-jeff-zambrano.github.io/portafolio-jefferson/" target="_blank" rel="noopener noreferrer">Ver portafolio</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jefferson-zambrano-10174a2bb/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
